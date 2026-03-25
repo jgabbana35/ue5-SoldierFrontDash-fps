@@ -1,0 +1,25 @@
+{
+  "difficulty_levels": {
+    "easy": {
+      "aimSkill": 0.3,
+      "reactionTime": 0.8,
+      "movementSpeed": 0.8,
+      "awareness": 0.4,
+      "accuracy": 0.5
+    },
+    "normal": {
+      "aimSkill": 0.6,
+      "reactionTime": 0.5,
+      "movementSpeed": 1.0,
+      "awareness": 0.7,
+      "accuracy": 0.7
+    },
+    "hard": {
+      "aimSkill": 0.9,
+      "reactionTime": 0.2,
+      "movementSpeed": 1.2,
+      "awareness": 0.95,
+      "accuracy": 0.95
+    }
+  }
+}
