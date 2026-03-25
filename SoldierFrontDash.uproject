@@ -5,7 +5,7 @@
     "Description": "",
     "Modules": [
         {
-            "Name": "MultiplayerShooter",
+            "Name": "SoldierFrontDash",
             "Type": "Runtime",
             "LoadingPhase": "Default",
             "AdditionalDependencies": [
