@@ -4,7 +4,7 @@ A Demo instructed by Udemy course: [Unreal Engine 5 C++ Multiplayer Shooter](htt
 
 ![](Plugins/Resources/00-Cover.png)
 
-
+[![Build Status](https://github.com/jgabbana35/ue5-SoldierFrontDash-fps/workflows/Unreal%20Engine%20Build/badge.svg)](https://github.com/jgabbana35/ue5-SoldierFrontDash-fps/actions)
 
 ### Unreal Assets Version Control
 
